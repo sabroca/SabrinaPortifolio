@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#fff9fc"/>
+  <circle cx="260" cy="310" r="160" fill="#ff0f7b" opacity=".85"/>
+  <circle cx="520" cy="480" r="130" fill="#8a2be2" opacity=".3"/>
+  <text x="50%" y="92%" text-anchor="middle" font-family="Poppins, Arial" font-weight="800" font-size="40" fill="#ff0f7b">LOGO</text>
+</svg>
